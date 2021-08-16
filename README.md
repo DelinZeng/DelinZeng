@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DelinZeng
 - 👀 I’m interested in Computer vision
-- 🌱  MS in Mechancial Engineering at Columbia Univeristy
--     BS in Mechancial Engineering at Univeristy of Rochester
+- 🌱 Mechancial Engineer at Columbia Univeristy
 - 📫 Email: dz2483@columbia.edu
 
 <!---
