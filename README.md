@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DelinZeng
 - 👀 I’m interested in Computer vision
-- 🌱 I’m a MS in Mechancial Engineering at Columbia Univeristy
-- 📫 You can reach me @ dz2483@columbia.edu
+- 🌱  MS in Mechancial Engineering at Columbia Univeristy
+-     BS in Mechancial Engineering at Univeristy of Rochester
+- 📫 Email: dz2483@columbia.edu
 
 <!---
 DelinZeng/DelinZeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
